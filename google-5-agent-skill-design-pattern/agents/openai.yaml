@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google 5 Agent Skill Patterns"
+  short_description: "Design skills with Google-style five-agent patterns"
+  default_prompt: "Use $google-5-agent-skill-design-pattern to choose the right skill pattern and draft a SKILL.md for this workflow."
